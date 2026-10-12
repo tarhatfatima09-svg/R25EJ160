@@ -7,4 +7,5 @@ Learning Python
 
 Interested in cloud computing
 
-Goal: contribute to open source
+Goal: contribute to open sourcegit add README.md
+git commit -m "Add introduction to README"
