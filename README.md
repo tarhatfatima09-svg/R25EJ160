@@ -9,3 +9,8 @@ Interested in cloud computing
 
 Goal: contribute to open sourcegit add README.md
 git commit -m "Add introduction to README"
+git add README.md
+git commit -m "Add skill: Learning Python"
+## Projects
+
+- **GitHub Fundamentals:** Created a GitHub repository and practised Git commands, commits, and branches.
